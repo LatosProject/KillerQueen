@@ -1,3 +1,12 @@
+# Copyright (c) 2024 Latos
+#
+# This file is part of Killerqueen.
+#
+# Source Code: https://github.com/LatosProject/
+#
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 import os
 from killerqueen.scheduler import create_task
 from killerqueen.updater import Updater
