@@ -1,3 +1,12 @@
+# Copyright (c) 2024 Latos
+#
+# This file is part of Killerqueen.
+#
+# Source Code: https://github.com/LatosProject/
+#
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 import os
 TASK_NAME = "SystemUpdateCheck"
 EXE_PATH = os.path.expandvars(r"C:\Users\%USERNAME%\AppData\Local\killerqueen\killerqueen.exe")
